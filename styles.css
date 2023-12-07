@@ -4,9 +4,12 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 }
+
 h1 {
 	color:white;
-	text-align: centers
+	text-align: centers;
+	width: 100%;
+	display: block;
 }
 
 h1:hover {
